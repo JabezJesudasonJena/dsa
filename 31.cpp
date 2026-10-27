@@ -1,4 +1,4 @@
- class Solution {
+class Solution {
 public:
     void nextPermutation(vector<int>& A) {
         //  find the pivot element
